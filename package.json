@@ -1,0 +1,16 @@
+{
+  "name": "study-zoom-pan-v2",
+  "private": true,
+  "scripts": {
+    "build": "poi --prod",
+    "dev": "poi --serve"
+  },
+  "devDependencies": {
+    "poi": "^12.4.2",
+    "vue": "^2.6.12",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "dependencies": {
+    "paintvec": "^0.3.0"
+  }
+}
