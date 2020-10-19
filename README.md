@@ -1,6 +1,6 @@
 # study-zoom-pan-v2
 
-> Created by [create-poi-app](https://poi.js.org).
+![study-pan-zoom](https://user-images.githubusercontent.com/3132889/96441762-01f7ea00-1245-11eb-99c6-659b6597dba7.gif)
 
 ## Project Scripts
 
